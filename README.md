@@ -11,8 +11,8 @@ The cross-platform mobile frontend for **Let's Talk English**, a real-time bilin
 ## 📱 UI Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KAMALAKAR12345/language-tutor-backend/main/assets/home_screen.jpg" width="45%" alt="Home Screen UI" />
-  <img src="https://raw.githubusercontent.com/KAMALAKAR12345/language-tutor-backend/main/assets/bilingual_chat.jpg" width="45%" alt="Bilingual Chat Drawer" />
+  <img src="https://raw.githubusercontent.com/KAMALAKAR12345/language-tutor-backend/main/assets/home_screen.jpeg" width="45%" alt="Home Screen UI" />
+  <img src="https://raw.githubusercontent.com/KAMALAKAR12345/language-tutor-backend/main/assets/bilingual_chat.jpeg" width="45%" alt="Bilingual Chat Drawer" />
 </p>
 
 ---

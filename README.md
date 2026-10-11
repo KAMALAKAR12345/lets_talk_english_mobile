@@ -8,6 +8,13 @@ The cross-platform mobile frontend for **Let's Talk English**, a real-time bilin
 
 > 🔗 **Companion Backend Repository:** The FastAPI + Google Gemini + Edge-TTS backend powering this app is located at [**language-tutor-backend**](https://github.com/KAMALAKAR12345/language-tutor-backend).
 
+## 📱 UI Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KAMALAKAR12345/language-tutor-backend/main/assets/home_screen.jpg" width="45%" alt="Home Screen UI" />
+  <img src="https://raw.githubusercontent.com/KAMALAKAR12345/language-tutor-backend/main/assets/bilingual_chat.jpg" width="45%" alt="Bilingual Chat Drawer" />
+</p>
+
 ---
 
 ## ✨ Key Mobile Features
